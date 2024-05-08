@@ -1,6 +1,0 @@
-1. git init
-2. git add .
-3. git commit -m "inital commit"
-4. git remote add origin https://github.com/rohitgandhi9/new-hello.git
-5. git branch
-6. git push -u origin master
